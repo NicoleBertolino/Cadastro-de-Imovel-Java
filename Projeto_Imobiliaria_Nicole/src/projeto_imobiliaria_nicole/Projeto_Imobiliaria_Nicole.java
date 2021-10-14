@@ -17,6 +17,8 @@ public class Projeto_Imobiliaria_Nicole {
 
     private static int i = 0;
 
+    
+            
     public static void menu() {
         System.out.println("\n\t\tIMOBILIARIA\n\t\tMENU DE OPÇÕES\n");
         System.out.println("\t1. Inserir novo imóvel.");
